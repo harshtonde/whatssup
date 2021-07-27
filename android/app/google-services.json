@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526610125229",
+    "project_id": "whatssup-4ef61",
+    "storage_bucket": "whatssup-4ef61.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526610125229:android:6634abbe0941a2fda55124",
+        "android_client_info": {
+          "package_name": "com.flutterflow.whatssup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526610125229-q92bbs373bjak8qcrq6df8eh6dtvs4rc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAU3e3fF16WlcP6zkQHpVlHcDzRlN570Ws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526610125229-q92bbs373bjak8qcrq6df8eh6dtvs4rc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

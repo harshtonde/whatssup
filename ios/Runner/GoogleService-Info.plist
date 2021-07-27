@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>526610125229-mmkt3lj8oe0h26lamipq4s4hc7gbudjn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.526610125229-mmkt3lj8oe0h26lamipq4s4hc7gbudjn</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBTMIzUn8dzzhLnVhuZD7rYDUCYDCGjsfs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>526610125229</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.flutterflow.whatssup</string>
+	<key>PROJECT_ID</key>
+	<string>whatssup-4ef61</string>
+	<key>STORAGE_BUCKET</key>
+	<string>whatssup-4ef61.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:526610125229:ios:64dbd667a3a8600ca55124</string>
+</dict>
+</plist>
